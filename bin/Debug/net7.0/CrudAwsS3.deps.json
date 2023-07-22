@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CrudAwsS3/1.0.0": {
+        "dependencies": {
+          "AWSSDK.S3": "3.7.107.5"
+        },
+        "runtime": {
+          "CrudAwsS3.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.7.108.1": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.108.1"
+          }
+        }
+      },
+      "AWSSDK.S3/3.7.107.5": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.108.1"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.S3.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.107.5"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CrudAwsS3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.7.108.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kG+tKeJbhblvokQpM3tCy5J6iqNcIQ2tycMNn5C/ZCJCyDpPHgk3QGFxEVGrKrZqMxGlfifvz+fUy79pmlpkfw==",
+      "path": "awssdk.core/3.7.108.1",
+      "hashPath": "awssdk.core.3.7.108.1.nupkg.sha512"
+    },
+    "AWSSDK.S3/3.7.107.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TZkpgKteGxIWnFLljxvq2NRHQaCnPq7dRs0WcFUAE8KTW0blyvj6NomMDoRROhh2/R+orKYzggPmELzMgAQ08Q==",
+      "path": "awssdk.s3/3.7.107.5",
+      "hashPath": "awssdk.s3.3.7.107.5.nupkg.sha512"
+    }
+  }
+}

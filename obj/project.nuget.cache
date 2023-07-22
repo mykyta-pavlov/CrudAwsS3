@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3tmdQxLLomaVTNrmVLlxaAaE3PypMBC9YB9xmDy4+PfaWbJpdgnG2z9kU9p4mZC/Gh+2imj7bKT6jZ1lOSQCMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mykyt\\RiderProjects\\CrudAwsS3\\CrudAwsS3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mykyt\\.nuget\\packages\\awssdk.core\\3.7.108.1\\awssdk.core.3.7.108.1.nupkg.sha512",
+    "C:\\Users\\mykyt\\.nuget\\packages\\awssdk.s3\\3.7.107.5\\awssdk.s3.3.7.107.5.nupkg.sha512"
+  ],
+  "logs": []
+}
